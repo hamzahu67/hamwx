@@ -7,7 +7,7 @@
   *,
   *:before,
   *:after {
-    background: transparent !important;
+    background: transparent !important
     color: #000 !important;
     box-shadow: none !important;
     text-shadow: none !important;
@@ -4528,7 +4528,7 @@ ul {
   -webkit-appearance: none;
   -moz-appearance: none;
   /* Firefox */
-  background: url('../images/uploads/drop-icon.png') no-repeat right 20px center;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtume/caa008e93f972c8a208161407e7756554a914389/drop-icon.png') no-repeat right 20px center;
   border-left: 1px solid #405266;
   border-right: 1px solid #405266;
   border-top: none;
