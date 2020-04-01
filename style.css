@@ -6684,7 +6684,7 @@ p.ceb-single {
   }
 }
 .page-single-2 {
-  background: url('../images/uploads/error-bg.jpg') no-repeat;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtim-/fdd50f8b1964f809dbbf5b7bcb1cc23902a5b656/drop-icon.png') no-repeat;
   background-position: center;
   text-align: center;
   background-size: cover;
