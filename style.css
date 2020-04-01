@@ -1,32 +1,4 @@
-/* ---------------- TABLE OF CONTENT ----------------------
-	-----------------------------------------------------------
-	-----------------------------------------------------------
-
-
-	0. FRAMEWORK
-
-	1. BASE
-	   1.1. BASE
-	   1.2. TYPOGRAPHY
-
-	2. COMPONENT
-	   2.1. PLUGINS
-	   2.2. COMMON
-	   2.3. MODULES
-
-	3. SKELETON
-	   3.1. PAGE
-	   3.2. HEADER
-	   3.3. FOOTER
-
-
-	-----------------------------------------------------------
-	-----------------------------------------------------------
-------------------- END TABLE OF CONTENT ------------------*/
-/* I. FRAMEWORK
-***********************/
-/*!
- * Bootstrap v3.3.5 (http://getbootstrap.com)
+* Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
@@ -6425,7 +6397,7 @@ ul {
   -webkit-appearance: none;
   -moz-appearance: none;
   /* Firefox */
-  background: url('../images/uploads/drop-icon.png') no-repeat right 20px center;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtume/caa008e93f972c8a208161407e7756554a914389/drop-icon.png') no-repeat right 20px center;
   background-color: #233a50;
 }
 @media (max-width: 991px) {
@@ -6684,7 +6656,7 @@ p.ceb-single {
   }
 }
 .page-single-2 {
-  background: url('https://rawcdn.githack.com/hamzahu67/ourtim-/fdd50f8b1964f809dbbf5b7bcb1cc23902a5b656/drop-icon.png') no-repeat;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtume/238d0886133adefce565ad52eed2f101da814219/error-bg.jpg') no-repeat;
   background-position: center;
   text-align: center;
   background-size: cover;
@@ -7046,7 +7018,7 @@ p.ceb-single {
   background-color: #00b9ef;
 }
 .slider {
-  background: url('https://rawcdn.githack.com/hamzahu67/slidr/cc9645763ded5bfa3f8d9a70794da8faf7af71ca/slider-bgnire.jpg') no-repeat;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtume/51b4b17f5f29ddc15a029701f5bacc19e6bd25c1/slider-bg.jpg') no-repeat;
   background-position: center;
   text-align: center;
   background-size: cover;
@@ -7131,7 +7103,7 @@ p.ceb-single {
   text-align: right;
 }
 .sliderv2 {
-  background: url('../images/uploads/slider-bg2.jpg') no-repeat;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtume/51b4b17f5f29ddc15a029701f5bacc19e6bd25c1/slider-bg2.jpg') no-repeat;
   padding-bottom: 0;
   padding-top: 180px;
   overflow: hidden;
@@ -7942,7 +7914,7 @@ header .top-search select {
   -webkit-appearance: none;
   -moz-appearance: none;
   /* Firefox */
-  background: url('../images/uploads/drop-icon.png') no-repeat right 20px center;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtim-/fdd50f8b1964f809dbbf5b7bcb1cc23902a5b656/drop-icon.png') no-repeat right 20px center;
   text-transform: uppercase;
   color: #ffffff;
 }
@@ -7950,7 +7922,7 @@ header .top-search input::-webkit-input-placeholder {
   color: #abb7c4;
 }
 header .top-search input {
-  background: url('../images/uploads/topsearch.png') no-repeat right 20px center;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtume/c7cbc270492511715085c7bb4fac7cc3dcc0d6d2/topsearch.png') no-repeat right 20px center;
 }
 header #nav-icon1 {
   width: 15px;
@@ -8139,7 +8111,7 @@ header#headerv3-light {
   }
 }
 footer {
-  background: url('../images/uploads/ft-bg.jpg') no-repeat;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtim-/fdd50f8b1964f809dbbf5b7bcb1cc23902a5b656/ft-bg.jpg') no-repeat;
   background-position: center;
   background-size: cover;
 }
@@ -8222,7 +8194,7 @@ footer .flex-parent-ft .flex-child-ft form input {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  background: url('../images/uploads/search-bg.png') no-repeat right 20px center;
+  background: url('https://rawcdn.githack.com/hamzahu67/ourtume/51b4b17f5f29ddc15a029701f5bacc19e6bd25c1/topsearch.png') no-repeat right 20px center;
 }
 footer .ft-copyright {
   display: -webkit-flex;
@@ -8284,3 +8256,6 @@ footer.full-width-ft .ft-copyright {
   font-family: 'Dosis', sans-serif;
   font-weight: 700;
 }
+
+  
+   
